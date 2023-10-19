@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DuAnBanThit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/DuAnBanThit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
